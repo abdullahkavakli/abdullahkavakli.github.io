@@ -12,4 +12,7 @@ layout: default
 - #### [`Knowledge-competition`](https://github.com/abdullahkavakli/Knowledge-competition)
   - Question game playable on terminal uses file input-output.
 
-`Updates are coming soon!`
+[`My Linkedin`](https://www.linkedin.com/in/abdullahkavakli/)
+
+
+Updates are coming soon!
