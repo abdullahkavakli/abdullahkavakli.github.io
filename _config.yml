@@ -8,4 +8,4 @@ gems:
   - jekyll-mentions
 
 github:
-  is_project_page: false
+  is_project_page: true
