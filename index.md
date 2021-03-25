@@ -1,6 +1,4 @@
----
-layout: default
----
+
 ## [**`My GitHub`**](https://github.com/abdullahkavakli)
 
 ### My repos:
