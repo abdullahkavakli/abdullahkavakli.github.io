@@ -1,4 +1,4 @@
-# The Slate theme
+# Abdullah Kavaklı
 ## [**`My GitHub`**](https://github.com/abdullahkavakli)
 
 ### My repos:
