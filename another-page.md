@@ -11,4 +11,4 @@ layout: default
 ## Bigisayar Mühendisliği
 
 
-[back](./)
+[back](https://abdullahkavakli.github.io)
