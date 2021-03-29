@@ -2,8 +2,13 @@
 layout: default
 ---
 
-## Welcome to another page
+# Soltware Developer
+## Computer Engineer
+## Portfolio
+## Abdullah Kavaklı
+## Pamukkale Üniversitesi
+## Pamukkale University
+## Bigisayar Mühendisliği
 
-_yay_
 
 [back](./)
