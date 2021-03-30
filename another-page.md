@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Soltware Developer
+## Soltware Developer
 ## Computer Engineer
 ## Portfolio
 ## Abdullah Kavaklı
