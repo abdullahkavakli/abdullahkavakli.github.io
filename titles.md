@@ -5,7 +5,6 @@ layout: default
 ## Computer Engineer
 ## Computer Scientist
 ## Soltware Developer
-## Abdullah Kavaklı
 ## Pamukkale Üniversitesi
 ## Pamukkale University
 ## Bigisayar Mühendisliği
