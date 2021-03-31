@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-
-## Soltware Developer
+## Bilgisayar Mühendisi
 ## Computer Engineer
-## Portfolio
+## Computer Scientist
+## Soltware Developer
 ## Abdullah Kavaklı
 ## Pamukkale Üniversitesi
 ## Pamukkale University
