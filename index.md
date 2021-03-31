@@ -13,6 +13,6 @@
 ### [`My Linkedin`](https://www.linkedin.com/in/abdullahkavakli/)
 
 Updates are coming soon!
-## 
+
 ## **Abdullah Kavaklı**
 
