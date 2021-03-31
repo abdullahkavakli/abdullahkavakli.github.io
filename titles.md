@@ -12,4 +12,4 @@ layout: default
 ## [`Linkedin`](https://www.linkedin.com/in/abdullahkavakli/)
 ## [**`GitHub`**](https://github.com/abdullahkavakli)
 
-[Back](https://abdullahkavakli.github.io)
+#### [**`Back`**](https://abdullahkavakli.github.io)
