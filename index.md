@@ -14,5 +14,3 @@
 
 Updates are coming soon!
 
-## **Abdullah Kavaklı**
-
