@@ -9,6 +9,7 @@ layout: default
 ## Pamukkale Üniversitesi
 ## Pamukkale University
 ## Bigisayar Mühendisliği
-
+## [`Linkedin`](https://www.linkedin.com/in/abdullahkavakli/)
+## [**`GitHub`**](https://github.com/abdullahkavakli)
 
 [back](https://abdullahkavakli.github.io)
