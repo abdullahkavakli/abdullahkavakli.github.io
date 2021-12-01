@@ -5,5 +5,5 @@
 
 ### Updates are coming soon
 
-#### [**`Linkedin`**](https://www.linkedin.com/in/abdullahkavakli/)
+#### [**`My Linkedin`**](https://www.linkedin.com/in/abdullahkavakli/)
 
