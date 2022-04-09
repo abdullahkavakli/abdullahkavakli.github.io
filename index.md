@@ -6,7 +6,7 @@
 ### Projects:
 
 - #### [`Trivia Quiz`](https://github.com/abdullahkavakli/Trivia-Quiz)
-    - Trivia-Quizis a question game used PyQt5 module. 
+    - Trivia-Quizis a question game used PyQt5.  
     - It gets questions from database and saves scores to database.
 
 - #### [`OnRails`](https://github.com/abdullahkavakli/data-structures)
