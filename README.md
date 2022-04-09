@@ -1,5 +1,5 @@
 # Abdullah Kavaklı
-## Computer Scientist
+## Computer Science Student
 ## [**`GitHub`**](https://github.com/abdullahkavakli)
 
 ### Updates are coming soon
