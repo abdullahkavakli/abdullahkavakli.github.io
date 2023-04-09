@@ -1,16 +1,5 @@
-## [**`My Linkedin`**](https://www.linkedin.com/in/abdullahkavakli/)
+# Hi, my name is Abdullah KAVAKLI
+# I'm a Data Scientist.
 
+I am a data scientist and have knowledge in DevOps and machine learning. Skilled in implementing Linux projects on the cloud, feature engineering, and various machine learning algorithms. Developed successful machine learning models with high accuracy scores. Experienced in NLP techniques for sentiment analysis. Optimized algorithms for faster processing and am passionate about using data science to solve complex problems and help businesses make informed decisions.
 
-### Projects:
-
-- #### [`Trivia Quiz`](https://github.com/abdullahkavakli/Trivia-Quiz)
-    - Trivia-Quiz is a question game used PyQt5.  
-    - It gets questions from database and saves scores to database.
-
-- #### [`OnRails`](https://github.com/abdullahkavakli/OnRails)
-    -  Blog coded on Ruby On Rails
-
-- #### [`Sudoku Game Solver`](https://github.com/abdullahkavakli/Sudoku-Game-Solver)
-    - Developed a UI(by Pygame) to play the game of Sudoku, implemented a solver feature that uses the backtracking algorithm to find a solution to any solvable game.
-    - With solver feature, matrixes tht is unsolved is solved by the code.
-    
